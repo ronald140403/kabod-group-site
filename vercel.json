@@ -5,8 +5,8 @@
   "redirects": [
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "kabodgroup.com.br" }],
-      "destination": "https://www.kabodgroup.com.br/:path*",
+      "has": [{ "type": "host", "value": "kabodlocacoes.com.br" }],
+      "destination": "https://www.kabodlocacoes.com.br/:path*",
       "permanent": true
     }
   ],
